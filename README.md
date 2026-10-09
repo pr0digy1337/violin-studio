@@ -1,6 +1,6 @@
  <div align="center">
 
-# 🎻 Sur Sadhana — Violin Studio
+# 🎻 Violin Studio
 
 ### Find your sur. Refine your sound. Feel the rhythm.
 
@@ -148,15 +148,6 @@ violin-studio/
 └── README.md
 ```
 
-## 🗺️ Roadmap
-
-- [ ] Automatically advance to the next Alankar swara.
-- [ ] Add configurable in-tune tolerance and clearer sharp/flat feedback.
-- [ ] Save practice history and track progress.
-- [ ] Add more taal patterns and traditional bols.
-- [ ] Build a raga reference library with Aroha and Avaroha.
-- [ ] Add named recordings and export controls.
-- [ ] Add saved tuning profiles and keyboard shortcuts.
 
 ## 🤝 Contributing
 
@@ -182,16 +173,12 @@ Ideas, bug reports, and improvements are welcome.
 
 The app's current core practice features use browser audio capabilities. Review future integrations before adding network uploads or analytics.
 
-## 📜 License
-
-No license has been specified yet. If you intend to make this project open source, add a `LICENSE` file and update this section with your chosen license.
-
 ---
 
 <div align="center">
 
 **Made for the love of music. 🎶**
 
-*Sur Sadhana — a little more focus in every practice session.*
-
+*a little more focus in every practice session.*
+*By Pritish xD*
 </div>
